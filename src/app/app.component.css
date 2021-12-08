@@ -1,0 +1,13 @@
+.navbar{
+    text-decoration: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+.navbar a{
+    text-decoration: none;
+}
+.product-list{
+    text-decoration: none;
+    display: flex;
+    justify-content: space-evenly;
+}
